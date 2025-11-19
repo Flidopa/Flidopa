@@ -28,6 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flidopa&show_icons=true&locale=en" alt="flidopa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flidopa&" alt="flidopa" /></p>
-
 <img src="https://i.imgur.com/f05SjbN.gif" width="100%">
