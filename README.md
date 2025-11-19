@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@flidopa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@flidopa" height="30" width="40" /></a>
-<a href="https://t.me/flidopa" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="flidopa" height="30" width="40" /></a>
+<a href="https://t.me/flidopa" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="flidopa" height="100" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flidopa&show_icons=true&locale=en" alt="flidopa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flidopa&" alt="flidopa" /></p>
+
+<img src="https://i.imgur.com/f05SjbN.gif" width="100%">
