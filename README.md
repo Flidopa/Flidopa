@@ -22,8 +22,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://skillicons.dev/icons?i=css,git,github,html,py,linux,arch,ubuntu,vscode,bots,visualstudio,windows""/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flidopa&show_icons=true&locale=en&layout=compact" alt="flidopa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flidopa&show_icons=true&locale=en" alt="flidopa" /></p>
-
 <img src="https://i.imgur.com/f05SjbN.gif" width="100%">
